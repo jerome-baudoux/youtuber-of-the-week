@@ -26,7 +26,7 @@ const Section = React.createClass({
                 <CardText>
                     {title}
                     {description}
-                    <GridList style={{"justifyContent": "center"}} cols="3">
+                    <GridList style={{"justifyContent": "center"}} cols="4">
                         {videos}
                     </GridList>
                 </CardText>

@@ -40,22 +40,21 @@ const YotwApp = React.createClass({
     },
 
     render () {
+        if (this.state.loading) {
+            return <div>Chargement...</div>
+        } else if (this.state.error) {
+            return <div>{this.state.error}</div>
+        }
         var posts = this.state.posts.map(post =>
             <Post key={post.key} post={post}/>
         );
-        var message = <p></p>;
-        if (this.state.loading) {
-            message = <p>Chargement...</p>
-        } else if (this.state.error) {
-            message = <p>{this.state.error}</p>
-        }
         return (
             <div>
                 <AppBar
                     title="Youtuber of the Week"
                     iconClassNameRight="muidocs-icon-navigation-expand-more"
+                    style={{"marginBottom": "20px"}}
                 />
-                {message}
                 {posts}
             </div>
         )

@@ -1,6 +1,225 @@
 {
   "posts": [
     {
+      "key": "6",
+      "title": "Edition #6: So much learning!",
+      "logo": "img/yt.png",
+      "date": "2016-06-22",
+      "sections": [
+        {
+          "key": "6.1",
+          "title": "",
+          "description": [
+            "Vous avez grandi avec « C’est pas sorcier », vos adorez les lunettes de Mac Lesggy et ce que vous préférez avant tout sur Internet c’est vous cultiver alors ce mail est fait pour VOUS !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "6.1.1",
+              "title": "True facts about Marsupials",
+              "link": "https://www.youtube.com/watch?v=gNqQL-1gZF8",
+              "image": "https://i.ytimg.com/vi/gNqQL-1gZF8/hqdefault.jpg"
+            },
+            {
+              "key": "6.1.2",
+              "title": "How to cook beets",
+              "link": "https://www.youtube.com/watch?v=l5q27rSY39U",
+              "image": "https://i.ytimg.com/vi/l5q27rSY39U/maxresdefault.jpg"
+            },
+            {
+              "key": "6.1.3",
+              "title": "How to Uninstall Internet Explorer",
+              "link": "https://www.youtube.com/watch?v=pjj9newZBp0",
+              "image": "https://i.ytimg.com/vi/pjj9newZBp0/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "6.2",
+          "title": "Bonus : Captain Disillusion !",
+          "description": [
+            "Le super héros qui debunk les hoax sur Internet !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "5.2.1",
+              "title": "Tuma Ping Pong Show",
+              "link": "https://www.youtube.com/watch?v=W8sGTh7ZpoY",
+              "image": "https://i.ytimg.com/vi/W8sGTh7ZpoY/hqdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "5",
+      "title": "Edition #5: 240p et son mono",
+      "logo": "img/dm.jpg",
+      "date": "2016-05-26",
+      "sections": [
+        {
+          "key": "5.1",
+          "title": "",
+          "description": [
+            "Un long discourt vaut mieux qu’une image… ça prend moins de bande passante.",
+            "",
+            "What is Dailymotion?",
+            "dailymotion is the place to share your videos with your friends and everyone else.",
+            "- to see the videos, sit down, choose a selection: most recent, most popular, filter with tags, owner, and launch the player!",
+            "- to share a video: shake your creativity, shoot (or use your webacm), register, upload your video, and choose appropriate tags (keywords) so that other users will find your video easily",
+            "",
+            "Bienvenue en 2006 !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "5.1.1",
+              "title": "Bite it !",
+              "link": "http://www.dailymotion.com/video/x6f2d_bite-it_news",
+              "image": "http://s2.dmcdn.net/0O0I/1280x720-QsV.jpg"
+            },
+            {
+              "key": "5.1.2",
+              "title": "Pas facile d’être Sid Marcus",
+              "link": "http://www.dailymotion.com/video/xo68q_pas-facile-d-etre-sid-marcus_creation",
+              "image": "http://s2.dmcdn.net/kahx/1280x720-kIS.jpg"
+            },
+            {
+              "key": "5.1.3",
+              "title": "Speed Dallas",
+              "link": "http://www.dailymotion.com/video/x1ruw8_speed-dallas_news",
+              "image": "http://s1.dmcdn.net/Rs6i/1280x720-HLe.jpg"
+            }
+          ]
+        },
+        {
+          "key": "5.2",
+          "title": "Bonus : ce qui se fait de mieux sur Dailmotion en 2016",
+          "description": [
+            "... non vraiment c’est bien, regardez !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "5.2.1",
+              "title": "Chroma",
+              "link": "http://www.dailymotion.com/video/x458bdl_chroma-s01-04-signes_shortfilms",
+              "image": "http://s2.dmcdn.net/WBWgC/1280x720-GRq.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "4",
+      "title": "Edition #4: The 90s ou La trilogie du Jeudi",
+      "logo": "img/tr.jpg",
+      "date": "2016-04-21",
+      "sections": [
+        {
+          "key": "4.1",
+          "title": "",
+          "description": [
+            "Quatrième édition et ça y est, on ne respecte déjà plus rien ! Cette semaine je ne présente pas un Youtuber mais trois vidéos qui ont vaguement un point commun : les années 90s !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "4.1.1",
+              "title": "Game of Thrones in 1995",
+              "link": "https://www.youtube.com/watch?v=2fPgIIB67bw",
+              "image": "https://i.ytimg.com/vi/2fPgIIB67bw/hqdefault.jpg"
+            },
+            {
+              "key": "4.1.2",
+              "title": "Every 90s commercial",
+              "link": "https://www.youtube.com/watch?v=W7Hoz2ZHYZM",
+              "image": "https://i.ytimg.com/vi/W7Hoz2ZHYZM/maxresdefault.jpg"
+            },
+            {
+              "key": "4.1.3",
+              "title": "Too Many Cooks",
+              "link": "https://www.youtube.com/watch?v=QrGrOK8oZG8",
+              "image": "https://i.ytimg.com/vi/QrGrOK8oZG8/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "4.2",
+          "title": "Bonus: Winners don’t use drugs",
+          "description": [
+            "... version Australienne"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "4.2.1",
+              "title": "Stonner Sloth",
+              "link": "https://www.youtube.com/watch?v=7rHm8GbTHyE",
+              "image": "https://i.ytimg.com/vi/7rHm8GbTHyE/hqdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "3",
+      "title": "Edition #3: TomSka",
+      "logo": "img/yt.png",
+      "date": "2016-03-24",
+      "sections": [
+        {
+          "key": "3.1",
+          "title": "",
+          "description": [
+            "Cette semaine je vous propose de visionner trois vidéos du youtuber TomSka",
+            "Il s’agit d’un créateur britannique de courts métrages un peu décalés. Sa chaine existe depuis près de 10 ans et a pas mal évoluée au fil du temps.",
+            "Pour ceux d’entre vous qui regardent Canal+, la série de sketch « Pendant ce temps » du grand journal était en fait totalement pompée d’une de ses vidéos."
+          ],
+          "footer" : [
+            "Cette chaine est surtout connue pour la série des asdfmovie, que je vous invite à regarder si vous aimez les vidéos WTF de quelques secondes."
+          ],
+          "videos": [
+            {
+              "key": "3.1.1",
+              "title": "I don't know",
+              "link": "https://www.youtube.com/watch?v=NPum07dH_mw",
+              "image": "https://i.ytimg.com/vi/NPum07dH_mw/maxresdefault.jpg"
+            },
+            {
+              "key": "3.1.2",
+              "title": "What happened",
+              "link": "https://www.youtube.com/watch?v=lOcDfMBq9VI",
+              "image": "https://i.ytimg.com/vi/lOcDfMBq9VI/maxresdefault.jpg"
+            },
+            {
+              "key": "3.1.3",
+              "title": "Holy Shit Cats",
+              "link": "https://www.youtube.com/watch?v=5hjoDOnzr5s",
+              "image": "https://i.ytimg.com/vi/5hjoDOnzr5s/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "3.2",
+          "title": "Bonus : Le FTW musical de la semaine",
+          "description": [
+            "Encore une fois c’est de l’archi connu, mais c’est tellement du bonheur que ça mérite d’être connu de tous !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "3.2.1",
+              "title": "Little Big",
+              "link": "https://www.youtube.com/watch?v=M8-vje-bq9c",
+              "image": "https://i.ytimg.com/vi/M8-vje-bq9c/maxresdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "2",
       "title": "Edition #2: The Fine Brothers / REACT",
       "logo": "img/yt.png",
@@ -14,6 +233,7 @@
             "Le concept de la chaine est de découvrir les réactions d’un petit groupe de personne à une vidéo. Le concept est décliné suivant la population visée.",
             "Il existe donc « Kids react », « Teens react », « Elder react » ou encore « Youtubers react » mais aussi en fonction de l’activité effectuée par ces personnes « Kids vs food », « Elder vs technology »."
           ],
+          "footer" : [],
           "videos": [
             {
               "key": "2.1.1",
@@ -42,6 +262,7 @@
             "Archie connue elle aussi, notamment en France grâce à Antoine Daniel.",
             "Il est de votre devoir de connaitre (et d'aimer) cette vidéo !"
           ],
+          "footer" : [],
           "videos": [
             {
               "key": "2.2.1",
@@ -63,6 +284,7 @@
           "key": "1.1",
           "title": "",
           "description": [],
+          "footer" : [],
           "videos": [
             {
               "key": "1.1.1",
