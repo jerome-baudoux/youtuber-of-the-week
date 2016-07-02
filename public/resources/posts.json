@@ -1,0 +1,90 @@
+{
+  "posts": [
+    {
+      "key": "2",
+      "title": "Edition #2: The Fine Brothers / REACT",
+      "logo": "img/yt.png",
+      "date": "2016-03-10",
+      "sections": [
+        {
+          "key": "2.1",
+          "title": "",
+          "description": [
+            "Cette semaine je vous propose de visionner trois vidéos des Fines Brothers.",
+            "Le concept de la chaine est de découvrir les réactions d’un petit groupe de personne à une vidéo. Le concept est décliné suivant la population visée.",
+            "Il existe donc « Kids react », « Teens react », « Elder react » ou encore « Youtubers react » mais aussi en fonction de l’activité effectuée par ces personnes « Kids vs food », « Elder vs technology »."
+          ],
+          "videos": [
+            {
+              "key": "2.1.1",
+              "title": "The Honey Badger (Teens react)",
+              "link": "https://www.youtube.com/watch?v=JlYM2UfiR4k",
+              "image": "https://i.ytimg.com/vi/JlYM2UfiR4k/hqdefault.jpg"
+            },
+            {
+              "key": "2.1.2",
+              "title": "Shrek is life (Youtuber react)",
+              "link": "https://www.youtube.com/watch?v=MuT6hughY-I",
+              "image": "https://i.ytimg.com/vi/MuT6hughY-I/hqdefault.jpg"
+            },
+            {
+              "key": "2.1.3",
+              "title": "Celebrity Special (Celebrity react)",
+              "link": "https://www.youtube.com/watch?v=et3A0LCBUys",
+              "image": "https://i.ytimg.com/vi/et3A0LCBUys/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "2.2",
+          "title": "Bonus : Le FTW musical de la semaine",
+          "description": [
+            "Archie connue elle aussi, notamment en France grâce à Antoine Daniel.",
+            "Il est de votre devoir de connaitre (et d'aimer) cette vidéo !"
+          ],
+          "videos": [
+            {
+              "key": "2.2.1",
+              "title": "Little Big",
+              "link": "https://www.youtube.com/watch?v=QrU1hZxSEXQ",
+              "image": "https://i.ytimg.com/vi/QrU1hZxSEXQ/maxresdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "1",
+      "title": "Edition #1: Rocket Jump / Freddie Wong",
+      "logo": "img/yt.png",
+      "date": "2016-02-25",
+      "sections": [
+        {
+          "key": "1.1",
+          "title": "",
+          "description": [],
+          "videos": [
+            {
+              "key": "1.1.1",
+              "title": "The Mexican Standoff",
+              "link": "https://www.youtube.com/watch?v=IHQr0HCIN2w",
+              "image": "https://i.ytimg.com/vi/IHQr0HCIN2w/maxresdefault.jpg"
+            },
+            {
+              "key": "1.1.2",
+              "title": "Jedi A-holes",
+              "link": "https://www.youtube.com/watch?v=k2H-SOqbQoA",
+              "image": "https://i.ytimg.com/vi/T819usZLQtE/maxresdefault.jpg"
+            },
+            {
+              "key": "1.1.3",
+              "title": "What if Zelda was a Girl ?",
+              "link": "https://www.youtube.com/watch?v=dXmMQJMFL_I",
+              "image": "https://i.ytimg.com/vi/dXmMQJMFL_I/hqdefault.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
