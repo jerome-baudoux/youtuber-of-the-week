@@ -1,6 +1,66 @@
 {
   "posts": [
     {
+      "key": "8",
+      "title": "Edition #8: La clic à Descraques",
+      "logo": "img/yt.png",
+      "date": "2016-07-28",
+      "sections": [
+        {
+          "key": "8.1",
+          "title": "",
+          "description": [
+            "En 2011 en France il y avait deux écoles, ceux qui regardaient \"Norman fait des Vidéos\", et ceux qui avaient un amour propre.",
+			"Vous avez vu toutes les vidéos de Norman ? Il est peut-être temps de regarder ce que vous avez loupé !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "8.1.1",
+              "title": "Le Visiteur du Futur - S01E14",
+              "link": "https://www.youtube.com/watch?v=XcoaFruzNCo",
+              "image": "https://i.ytimg.com/vi/XcoaFruzNCo/hqdefault.jpg"
+            },
+            {
+              "key": "8.1.4",
+              "title": "42ème Etage",
+              "link": "https://www.youtube.com/watch?v=PC7Hcy7-G4Y",
+              "image": "https://i.ytimg.com/vi/PC7Hcy7-G4Y/hqdefault.jpg"
+            },
+            {
+              "key": "8.1.2",
+              "title": "Super Metro",
+              "link": "https://www.youtube.com/watch?v=OT8yyeXAzi8",
+              "image": "https://i.ytimg.com/vi/OT8yyeXAzi8/hqdefault.jpg"
+            },
+            {
+              "key": "8.1.3",
+              "title": "J'ai Jamais Su Dire Non",
+              "link": "https://www.youtube.com/watch?v=aPmY05b_YYg",
+              "image": "https://i.ytimg.com/vi/aPmY05b_YYg/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "8.2",
+          "title": "Bonus : Tu vas mourir chevalier!",
+          "description": [
+			"Rien à voir mais on ne peut pas montrer autant de vidéos Françaises de qualité sans parler de CdZ Abridged",
+			"Revivez les chevaliers du zodiaque dans une version allégée... et presque pas dénaturée !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "8.2.1",
+              "title": "Les Chevaliers du Zodiaque, La Série Abrégée",
+              "link": "https://www.youtube.com/watch?v=aQ0yOmtl96A",
+              "image": "https://i.ytimg.com/vi/aQ0yOmtl96A/hqdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "7",
       "title": "Edition #7: Music",
       "logo": "img/yt.png",
@@ -35,14 +95,14 @@
           ]
         },
         {
-          "key": "6.2",
+          "key": "7.2",
           "title": "Bonus : More music !",
           "description": [
           ],
           "footer" : [],
           "videos": [
             {
-              "key": "5.2.1",
+              "key": "7.2.1",
               "title": "Learn English with music !",
               "link": "https://www.youtube.com/watch?v=_UDcfOkOeTw",
               "image": "http://www.cardrunners.com/images/image/0003073Diarrhea.jpg"
