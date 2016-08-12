@@ -23,10 +23,6 @@ const Post = React.createClass({
                         avatar={this.props.post.logo}
                     />
                     {sections}
-                    <CardActions>
-                        <FlatButton label="Like" />
-                        <FlatButton label="Dislike" />
-                    </CardActions>
                 </Card>
             </div>
         )

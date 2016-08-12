@@ -50,11 +50,7 @@ const YotwApp = React.createClass({
         );
         return (
             <div>
-                <AppBar
-                    title="Youtuber of the Week"
-                    iconClassNameRight="muidocs-icon-navigation-expand-more"
-                    style={{"marginBottom": "20px"}}
-                />
+                <AppBar title="Youtuber of the Week" style={{"marginBottom": "20px"}}/>
                 {posts}
             </div>
         )
