@@ -1,6 +1,65 @@
 {
   "posts": [
     {
+      "key": "10",
+      "title": "Edition #10: Almost Officials Music Videos ",
+      "logo": "img/yt.png",
+      "date": "2016-08-18",
+      "sections": [
+        {
+          "key": "10.1",
+          "title": "",
+          "description": [
+            "In a world fraught with corruption, zombies and werewolves, four young boys united by fate, torn apart by destiny",
+			"This summer, prepare for the most epic journey of all time"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "10.1.1",
+              "title": "Miley Cirus - Wrecking Ball... ou presque",
+              "link": "https://www.youtube.com/watch?v=W6DmHGYy_xk",
+              "image": "https://i.ytimg.com/vi/My2FRPA3Gf8/hqdefault.jpg"
+            },
+            {
+              "key": "10.1.2",
+              "title": "Sia - Chandelier... ou presque",
+              "link": "https://www.youtube.com/watch?v=lxRhK_3GztQ",
+              "image": "https://i.ytimg.com/vi/2vjPBrBU-TM/hqdefault.jpg"
+            },
+            {
+              "key": "10.1.3",
+              "title": "Taylor Swift - Trouble... ou presque",
+              "link": "https://www.youtube.com/watch?v=ZVCFcR1LOng",
+              "image": "https://i.ytimg.com/vi/vNoKguSdy4Y/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "10.2",
+          "title": "Bonus : We both said a lot of things that you're going to regret",
+          "description": [
+			"... but I think we can put our differences behind us; for science... you monster"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "10.2.2",
+              "title": "Jack Sparrow !",
+              "link": "https://www.youtube.com/watch?v=GI6CfKcMhjY",
+              "image": "https://i.ytimg.com/vi/GI6CfKcMhjY/hqdefault.jpg"
+            },
+            {
+              "key": "10.2.1",
+              "title": "Shia LaBeouf !",
+              "link": "https://www.youtube.com/watch?v=o0u4M6vppCI",
+              "image": "https://i.ytimg.com/vi/o0u4M6vppCI/hqdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "9",
       "title": "Edition #9: Movie Trailers",
       "logo": "img/yt.png",
