@@ -1,5 +1,70 @@
 {
   "posts": [{
+      "key": "12",
+      "title": "Edition #12: MCM, Ma chaine musicale",
+      "logo": "img/yt.png",
+      "date": "2016-12-15",
+      "sections": [
+        {
+          "key": "1",
+          "title": "",
+          "description": [
+            "Tout en musique pour cette édition",
+            "On commence par du grand classique avec Smosh"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "1",
+              "title": "The Legend of Zelda",
+              "link": "https://www.youtube.com/watch?v=mO1QBTG6EXs",
+              "image": "https://i.ytimg.com/vi/mO1QBTG6EXs/hqdefault.jpg"
+            },
+            {
+              "key": "2",
+              "title": "Smash Rap",
+              "link": "https://www.youtube.com/watch?v=vxsUr2JMp-Q",
+              "image": "https://i.ytimg.com/vi/vxsUr2JMp-Q/hqdefault.jpg"
+            },
+            {
+              "key": "3",
+              "title": "Backwards curse words",
+              "link": "https://www.youtube.com/watch?v=Uxl60btmsM4",
+              "image": "https://i.ytimg.com/vi/Uxl60btmsM4/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "2",
+          "title": "Bonus",
+          "description": [
+			"Et on va pas s'arrêter en si bon chemin",
+			"3 vidéos = 3 youtubers !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "1",
+              "title": "Paint - Ever After",
+              "link": "https://www.youtube.com/watch?v=diU70KshcjA",
+              "image": "https://i.ytimg.com/vi/diU70KshcjA/hqdefault.jpg"
+            },
+            {
+              "key": "2",
+              "title": "Tobuscus - Viral Video",
+              "link": "https://www.youtube.com/watch?v=zzKFbUxYJys",
+              "image": "https://i.ytimg.com/vi/zzKFbUxYJys/hqdefault.jpg"
+            },
+            {
+              "key": "3",
+              "title": "Schmoyoho - Dead Give Away",
+              "link": "https://www.youtube.com/watch?v=nZcRU0Op5P4",
+              "image": "https://i.ytimg.com/vi/nZcRU0Op5P4/hqdefault.jpg"
+            }
+          ]
+        }
+      ]
+    },{
       "key": "11",
       "title": "Edition #11: Commercials",
       "logo": "img/yt.png",
