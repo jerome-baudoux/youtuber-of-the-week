@@ -1,5 +1,60 @@
 {
   "posts": [{
+      "key": "13",
+      "title": "Edition #13: The more you know",
+      "logo": "img/yt.png",
+      "date": "2017-02-15",
+      "sections": [
+        {
+          "key": "1",
+          "title": "",
+          "description": [
+            "Let's learn some useless facts !"
+          ],
+          "footer" : [],
+          "videos": [
+            {
+              "key": "1",
+              "title": "What if Superman Punched You?",
+              "link": "https://www.youtube.com/watch?v=V-fL8zopddI",
+              "image": "https://i.ytimg.com/vi/V-fL8zopddI/hqdefault.jpg"
+            },
+            {
+              "key": "3",
+              "title": "Is Earth Actually Flat?",
+              "link": "https://www.youtube.com/watch?v=VNqNnUJVcVs",
+              "image": "https://i.ytimg.com/vi/VNqNnUJVcVs/hqdefault.jpg"
+            },
+            {
+              "key": "2",
+              "title": "Pi and the size of the Universe",
+              "link": "https://www.youtube.com/watch?v=FpyrF_Ci2TQ",
+              "image": "https://i.ytimg.com/vi/FpyrF_Ci2TQ/hqdefault.jpg"
+            },
+            {
+              "key": "4",
+              "title": "Why do mirrors flip horizontally ?",
+              "link": "https://www.youtube.com/watch?v=vBpxhfBlVLU",
+              "image": "https://i.ytimg.com/vi/vBpxhfBlVLU/hqdefault.jpg"
+            }
+          ]
+        },
+        {
+          "key": "2",
+          "title": "Bonus",
+          "description": [],
+		  "footer" : [],
+          "videos": [
+            {
+              "key": "1",
+              "title": "Anamorphic Illusions",
+              "link": "https://www.youtube.com/watch?v=GIvD-_ITco8",
+              "image": "https://i.ytimg.com/vi/GIvD-_ITco8/hqdefault.jpg"
+            }
+          ]
+		}
+	  ]
+	},{
       "key": "12",
       "title": "Edition #12: MCM, Ma chaine musicale",
       "logo": "img/yt.png",
